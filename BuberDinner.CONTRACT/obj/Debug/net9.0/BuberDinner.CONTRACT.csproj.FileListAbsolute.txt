@@ -1,0 +1,11 @@
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\bin\Debug\net9.0\BuberDinner.CONTRACT.deps.json
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\bin\Debug\net9.0\BuberDinner.CONTRACT.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\bin\Debug\net9.0\BuberDinner.CONTRACT.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\BuberDinner.CONTRACT.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\BuberDinner.CONTRACT.AssemblyInfoInputs.cache
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\BuberDinner.CONTRACT.AssemblyInfo.cs
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\BuberDinner.CONTRACT.csproj.CoreCompileInputs.cache
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\BuberDinner.CONTRACT.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\refint\BuberDinner.CONTRACT.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\BuberDinner.CONTRACT.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.CONTRACT\obj\Debug\net9.0\ref\BuberDinner.CONTRACT.dll
