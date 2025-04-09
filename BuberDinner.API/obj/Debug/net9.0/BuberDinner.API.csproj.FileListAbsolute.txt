@@ -31,3 +31,12 @@ D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\obj\Debug\net9.0\BuberDinner.API.pdb
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\obj\Debug\net9.0\BuberDinner.API.genruntimeconfig.cache
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\obj\Debug\net9.0\ref\BuberDinner.API.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.APPLICATION.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.CONTRACT.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.DOMAIN.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.INFRASTRACTURE.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.CONTRACT.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.APPLICATION.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.INFRASTRACTURE.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.DOMAIN.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\obj\Debug\net9.0\BuberDinner.API.sourcelink.json

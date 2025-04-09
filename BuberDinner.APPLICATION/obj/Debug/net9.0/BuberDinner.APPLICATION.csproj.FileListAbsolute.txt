@@ -9,3 +9,8 @@ D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APP
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\obj\Debug\net9.0\refint\BuberDinner.APPLICATION.dll
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\obj\Debug\net9.0\BuberDinner.APPLICATION.pdb
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\obj\Debug\net9.0\ref\BuberDinner.APPLICATION.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\bin\Debug\net9.0\BuberDinner.DOMAIN.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\bin\Debug\net9.0\BuberDinner.DOMAIN.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\obj\Debug\net9.0\BuberDinner.APPLICATION.csproj.AssemblyReference.cache
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\obj\Debug\net9.0\BuberDinner.APPLICATION.sourcelink.json
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.APPLICATION\obj\Debug\net9.0\BuberDin.80B2A517.Up2Date

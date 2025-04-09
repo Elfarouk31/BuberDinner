@@ -9,3 +9,4 @@ D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.DOM
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.DOMAIN\obj\Debug\net9.0\refint\BuberDinner.DOMAIN.dll
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.DOMAIN\obj\Debug\net9.0\BuberDinner.DOMAIN.pdb
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.DOMAIN\obj\Debug\net9.0\ref\BuberDinner.DOMAIN.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.DOMAIN\obj\Debug\net9.0\BuberDinner.DOMAIN.sourcelink.json

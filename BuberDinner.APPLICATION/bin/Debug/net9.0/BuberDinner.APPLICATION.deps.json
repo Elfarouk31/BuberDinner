@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "BuberDinner.APPLICATION/1.0.0": {
+        "dependencies": {
+          "BuberDinner.DOMAIN": "1.0.0"
+        },
         "runtime": {
           "BuberDinner.APPLICATION.dll": {}
+        }
+      },
+      "BuberDinner.DOMAIN/1.0.0": {
+        "runtime": {
+          "BuberDinner.DOMAIN.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "BuberDinner.APPLICATION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberDinner.DOMAIN/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -9,3 +9,10 @@ D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INF
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\obj\Debug\net9.0\refint\BuberDinner.INFRASTRACTURE.dll
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\obj\Debug\net9.0\BuberDinner.INFRASTRACTURE.pdb
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\obj\Debug\net9.0\ref\BuberDinner.INFRASTRACTURE.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\bin\Debug\net9.0\BuberDinner.APPLICATION.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\bin\Debug\net9.0\BuberDinner.DOMAIN.dll
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\bin\Debug\net9.0\BuberDinner.APPLICATION.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\bin\Debug\net9.0\BuberDinner.DOMAIN.pdb
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\obj\Debug\net9.0\BuberDinner.INFRASTRACTURE.csproj.AssemblyReference.cache
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\obj\Debug\net9.0\BuberDinner.INFRASTRACTURE.sourcelink.json
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.INFRASTRACTURE\obj\Debug\net9.0\BuberDin.D11A4424.Up2Date
