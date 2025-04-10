@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj": {}
+    "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.Api\\BuberDinner.API.csproj": {}
   },
   "projects": {
-    "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj": {
+    "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.Api\\BuberDinner.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
+        "projectUniqueName": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.Api\\BuberDinner.API.csproj",
         "projectName": "BuberDinner.API",
-        "projectPath": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
+        "projectPath": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.Api\\BuberDinner.API.csproj",
         "packagesPath": "C:\\Users\\Al-Farouk Hany\\.nuget\\packages\\",
-        "outputPath": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.API\\obj\\",
+        "outputPath": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

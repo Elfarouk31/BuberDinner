@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1PMJojeV9M=",
+  "dgSpecHash": "Jws2C3NGkwc=",
   "success": true,
-  "projectFilePath": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.API\\BuberDinner.API.csproj",
+  "projectFilePath": "D:\\1-PROJECTS\\netcore\\CleanArch\\cleanArchitectureDDD\\BuberDinner\\BuberDinner.Api\\BuberDinner.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Al-Farouk Hany\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\Al-Farouk Hany\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
