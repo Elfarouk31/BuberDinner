@@ -40,3 +40,4 @@ D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.INFRASTRACTURE.pdb
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\BuberDinner.DOMAIN.pdb
 D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\obj\Debug\net9.0\BuberDinner.API.sourcelink.json
+D:\1-PROJECTS\netcore\CleanArch\cleanArchitectureDDD\BuberDinner\BuberDinner.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

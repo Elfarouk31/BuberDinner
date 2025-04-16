@@ -1,10 +1,19 @@
+using BuberDinner.APPLICATION;
+using BuberDinner.Infrastracture;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
+builder.Services.AddApplication()
+                .AddInfrastracture();
+                
 builder.Services.AddControllers();
+
+//builder.Services.AddScoped<IAuthenticationServices, AuthenticationServices>();
+
 
 var app = builder.Build();
 
